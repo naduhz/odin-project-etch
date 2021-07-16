@@ -12,6 +12,15 @@
 - [Footer](#footer)
 
 # Usage
+Simply head to https://naduhz.github.io/odin-project-etch/ to begin using the app! Alternatively, if you wish to host the project locally and make edits, you may clone the repository by doing:
+
+```shell
+cd your-directory-name
+git clone https://github.com/naduhz/odin-project-etch.git
+```
+
+and launching `index.html`.
+
 [(Back to top)](#table-of-contents)
 
 # Learning Points
