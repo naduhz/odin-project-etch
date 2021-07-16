@@ -16,7 +16,7 @@ Simply head to https://naduhz.github.io/odin-project-etch/ to begin using the ap
 
 ```shell
 cd your-directory-name
-git clone https://github.com/naduhz/odin-project-etch.gitI tw
+git clone https://github.com/naduhz/odin-project-etch.git
 ```
 
 and launching `index.html`.
