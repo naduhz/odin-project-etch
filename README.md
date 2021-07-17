@@ -1,5 +1,13 @@
 # Etch-A-Sketch Clone using Javascript
+This is a simple etch-a-sketch clone that supports randomized colour patterns and customisable pixel sizes.
+
 # Preview
+<p align='center'>
+  <img src='https://user-images.githubusercontent.com/81805471/126027630-baa228a9-c575-41ec-90e9-46f10cbf73ef.png' alt='Homepage'/>
+</p>
+<p align='center'>
+  <img src='https://user-images.githubusercontent.com/81805471/126027754-79c93ef6-c777-4e03-ac9e-cc2d2daf97b1.png' alt='Sample'/>
+</p>
 
 # Table of Contents
 - [Preview](#preview)
@@ -36,16 +44,26 @@ DOM Manipulation was rather self-explanatory, but the power to manipulate elemen
 [(Back to top)](#table-of-contents)
 
 # Contribute
+Please feel free to make any suggestions, edits or raise issues. Forks and pull requests are always welcome. I am not likely to maintain the code from here on as I have to move on to other projects.
+
 [(Back to top)](#table-of-contents)
 
 ## Adding new features or fixing bugs
+As mentioned above, I am not likely to maintain the code and as such, if you would like to build on this project, you could always fork or clone this repository.
+
 [(Back to top)](#table-of-contents)
 
 # Feedback
+As this was done within a month of learning Javascript, the code is written in a very amateurish manner, so criticism is always appreciated with regard to how I can better write or refactor my code.
+
 [(Back to top)](#table-of-contents)
 
 # License
+Project License can be found [here](https://github.com/naduhz/odin-project-etch/blob/main/LICENSE).
+
 [(Back to top)](#table-of-contents)
 
 # Footer
+I would like to thank [The Odin Project](https://www.theodinproject.com/) for providing the inspiration for this project.
+
 [(Back to top)](#table-of-contents)
